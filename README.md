@@ -13,3 +13,9 @@ to use the react next template use the following indications
 3 - start server `npm run dev`
 
 4 - start build `npm run build`
+
+1. clone repository
+
+```git
+git pull https://github.com/Wth10/Dev-ReactNext
+```
