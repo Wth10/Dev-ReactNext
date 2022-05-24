@@ -6,10 +6,10 @@ to install without doing `git pull` use `npx create-next-app namefile`
 
 to use the react next template use the following indications
 
-`git pull https://github.com/Wth10/Dev-ReactNext`
+1 - `git pull https://github.com/Wth10/Dev-ReactNext`
 
-`npm install`
+2 - `npm install`
 
-start server `npm run dev`
+3 - start server `npm run dev`
 
-start build `npm run build`
+4 - start build `npm run build`
