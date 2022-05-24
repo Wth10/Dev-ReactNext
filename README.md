@@ -1,8 +1,6 @@
-# Dev-ReactNext
+## Dev-ReactNext
 
-for instalation use
-
-to install without doing `git pull` use `npx create-next-app namefile`
+to install without doing `git pull` use `npx create-next-app <namefile>`
 
 to use the react next template use the following indications
 
