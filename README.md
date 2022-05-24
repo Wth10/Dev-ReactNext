@@ -1,5 +1,7 @@
 ## Dev-ReactNext
 
+To use the program follow the commands below to create folder on W10 just use `mkdir <name>` to create file `NULL > <name>` using the terminal
+
 to install without doing `git pull` use `npx create-next-app <namefile>`
 
 to use the react next template use the following indications
