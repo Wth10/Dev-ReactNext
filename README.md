@@ -8,7 +8,7 @@ to use the react next template use the following indications
 
 1 - clone repository `git pull https://github.com/Wth10/Dev-ReactNext`
 
-2 - `npm install`
+2 - install dependency `npm install`
 
 3 - start server `npm run dev`
 
