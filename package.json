@@ -1,5 +1,5 @@
 {
-	"name": "study",
+	"name": "dev-react-next",
 	"version": "0.1.0",
 	"private": true,
 	"format": "prettier --write \"src/**/*.{js,jsx}\"",
