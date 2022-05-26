@@ -1,23 +1,35 @@
 {
-  "name": "study",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "firebase": "^9.8.1",
-    "next": "12.1.6",
-    "next-link": "^2.0.0",
-    "react": "18.1.0",
-    "react-dom": "18.1.0",
-    "react-script": "^2.0.5"
-  },
-  "devDependencies": {
-    "eslint": "8.16.0",
-    "eslint-config-next": "12.1.6"
-  }
+	"name": "study",
+	"version": "0.1.0",
+	"private": true,
+	"format": "prettier --write \"src/**/*.{js,jsx}\"",
+	"lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+	"author": {
+		"name": "Wth - Weuberth",
+		"url": "https://github.com/Wth10"
+	},
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"next": "12.1.6",
+		"next-link": "^2.0.0",
+		"react": "18.1.0",
+		"react-dom": "18.1.0",
+		"react-script": "^2.0.5"
+	},
+	"devDependencies": {
+		"eslint": "^8.16.0",
+		"eslint-config-airbnb": "^19.0.4",
+		"eslint-config-next": "12.1.6",
+		"eslint-config-prettier": "^8.5.0",
+		"eslint-plugin-import": "^2.26.0",
+		"eslint-plugin-jsx-a11y": "^6.5.1",
+		"eslint-plugin-react": "^7.30.0",
+		"eslint-plugin-react-hooks": "^4.5.0",
+		"prettier": "^2.6.2"
+	}
 }
